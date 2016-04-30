@@ -1,0 +1,25 @@
+﻿.body-background {
+    background-color:#E6E6FA;
+}
+
+.grey-navbar{
+    background-color:darkgray;
+}
+
+.yellow-navbar{
+    background-color:yellow;
+}
+
+.after-nav-margin{
+    margin-top:60px;
+    margin-bottom:50px;
+}
+
+.border-divider{
+    border: 2px solid grey;
+    border-radius:10px;
+}
+
+.beauty-margin {
+    margin-top:100px;
+}

@@ -9,7 +9,7 @@ namespace PL.Models
 {
     public static class Rep //Класс связывания логики и контроллеров(предворительный список действий)
     {
-        private static IBLL bll = new Logic();
+        private static Logic bll = new Logic();
         public static bool AddUser(UserM user)
         {
             return bll.AddUser(new Entities.User
